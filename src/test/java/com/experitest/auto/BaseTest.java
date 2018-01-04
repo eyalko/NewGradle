@@ -23,6 +23,7 @@ public class BaseTest {
 		dc.setCapability("reportDirectory", "reports");
 		dc.setCapability("reportFormat", "xml");
 		dc.setCapability("accessKey", accessKey);
+		dc.setCapability("stream", "EyalJenkinsTask");
 		dc.setCapability("build.number", System.getenv("BUILD_NUMBER"));
 //		dc.setCapability("user", getProperty("username", cloudProperties));
 //		dc.setCapability("password", getProperty("password", cloudProperties));

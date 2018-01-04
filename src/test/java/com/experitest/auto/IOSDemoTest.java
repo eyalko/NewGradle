@@ -26,7 +26,6 @@ public class IOSDemoTest extends BaseTest {
 		//dc.setCapability(MobileCapabilityType.APP, "cloud:com.experitest.ExperiBank");
 		//dc.setCapability(IOSMobileCapabilityType.BUNDLE_ID, "com.experitest.ExperiBank");
 		dc.setCapability("testName", "iOS Jenkins");
-		dc.setCapability("streamFilter", "EyalJenkinsTask");
 		dc.setCapability(MobileCapabilityType.APP, "cloud:com.experitest.ExperiBank");
 		dc.setCapability(IOSMobileCapabilityType.BUNDLE_ID, "com.experitest.ExperiBank");
 		dc.setCapability("instrumentApp", true);
