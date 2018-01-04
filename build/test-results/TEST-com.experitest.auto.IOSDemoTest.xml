@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.experitest.auto.IOSDemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-01-04T12:40:59" hostname="EYALKOPEL-LT" time="34.433">
+  <properties/>
+  <testcase name="test" classname="com.experitest.auto.IOSDemoTest" time="34.433"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jan 04, 2018 2:40:59 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Username']}]
+Jan 04, 2018 2:41:00 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Username']}]
+Jan 04, 2018 2:41:00 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: sendKeysToElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, sendKeysToElement {id=11, value=[Ljava.lang.CharSequence;@1606ce30}]
+Jan 04, 2018 2:41:03 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, sendKeysToElement {id=11, value=[Ljava.lang.CharSequence;@1606ce30}]
+Jan 04, 2018 2:41:03 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Password']}]
+Jan 04, 2018 2:41:04 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Password']}]
+Jan 04, 2018 2:41:04 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: sendKeysToElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, sendKeysToElement {id=12, value=[Ljava.lang.CharSequence;@7ecf4bc0}]
+Jan 04, 2018 2:41:08 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, sendKeysToElement {id=12, value=[Ljava.lang.CharSequence;@7ecf4bc0}]
+Jan 04, 2018 2:41:08 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Login']}]
+Jan 04, 2018 2:41:09 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Login']}]
+Jan 04, 2018 2:41:09 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: clickElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, clickElement {id=13}]
+Jan 04, 2018 2:41:10 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, clickElement {id=13}]
+Jan 04, 2018 2:41:10 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Make Payment']}]
+Jan 04, 2018 2:41:11 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Make Payment']}]
+Jan 04, 2018 2:41:11 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: clickElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, clickElement {id=14}]
+Jan 04, 2018 2:41:12 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, clickElement {id=14}]
+Jan 04, 2018 2:41:12 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Phone']}]
+Jan 04, 2018 2:41:13 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Phone']}]
+Jan 04, 2018 2:41:13 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: sendKeysToElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, sendKeysToElement {id=15, value=[Ljava.lang.CharSequence;@5e986d67}]
+Jan 04, 2018 2:41:15 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, sendKeysToElement {id=15, value=[Ljava.lang.CharSequence;@5e986d67}]
+Jan 04, 2018 2:41:15 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Name']}]
+Jan 04, 2018 2:41:16 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Name']}]
+Jan 04, 2018 2:41:16 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: sendKeysToElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, sendKeysToElement {id=16, value=[Ljava.lang.CharSequence;@69351284}]
+Jan 04, 2018 2:41:19 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, sendKeysToElement {id=16, value=[Ljava.lang.CharSequence;@69351284}]
+Jan 04, 2018 2:41:19 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Amount']}]
+Jan 04, 2018 2:41:20 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Amount']}]
+Jan 04, 2018 2:41:20 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: sendKeysToElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, sendKeysToElement {id=17, value=[Ljava.lang.CharSequence;@45e8a5f8}]
+Jan 04, 2018 2:41:23 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, sendKeysToElement {id=17, value=[Ljava.lang.CharSequence;@45e8a5f8}]
+Jan 04, 2018 2:41:23 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Country']}]
+Jan 04, 2018 2:41:24 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Country']}]
+Jan 04, 2018 2:41:24 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: sendKeysToElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, sendKeysToElement {id=18, value=[Ljava.lang.CharSequence;@41fd67ce}]
+Jan 04, 2018 2:41:26 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, sendKeysToElement {id=18, value=[Ljava.lang.CharSequence;@41fd67ce}]
+Jan 04, 2018 2:41:26 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Send Payment']}]
+Jan 04, 2018 2:41:27 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Send Payment']}]
+Jan 04, 2018 2:41:27 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: clickElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, clickElement {id=19}]
+Jan 04, 2018 2:41:28 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, clickElement {id=19}]
+Jan 04, 2018 2:41:28 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Yes']}]
+Jan 04, 2018 2:41:30 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Yes']}]
+Jan 04, 2018 2:41:30 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: clickElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, clickElement {id=20}]
+Jan 04, 2018 2:41:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, clickElement {id=20}]
+Jan 04, 2018 2:41:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: findElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Logout']}]
+Jan 04, 2018 2:41:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, findElement {using=xpath, value=//*[@accessibilityLabel='Logout']}]
+Jan 04, 2018 2:41:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executing: clickElement [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, clickElement {id=22}]
+Jan 04, 2018 2:41:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+INFO: Executed: [CLOUD-SID:2018-01-04_14-39-32-65da729e-edd2-48ab-bc86-2202ce84d256, clickElement {id=22}]
+]]></system-err>
+</testsuite>

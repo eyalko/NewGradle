@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="deviceQuery" value="@os=&#039;ios&#039; and @version!=&#039;11.1.2&#039;"/>
+  <test name="TestIOS(failed)" parallel="tests">
+    <parameter name="deviceQuery" value="@os=&#039;ios&#039; and @version!=&#039;11.1.2&#039;"/>
+    <classes>
+      <class name="com.experitest.auto.IOSDemoTest">
+        <methods>
+          <include name="test"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.experitest.auto.IOSDemoTest -->
+    </classes>
+  </test> <!-- TestIOS(failed) -->
+</suite> <!-- Failed suite [Suite] -->
