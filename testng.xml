@@ -7,4 +7,10 @@
       <class name="com.experitest.auto.IOSDemoTest"/>
     </classes>
   </test> <!-- Test -->
+  <test name="TestIOS2">
+  	<parameter name="deviceQuery" value="@os='ios' and @version!='11.1.2'"/>
+    <classes>
+      <class name="com.experitest.auto.IOSDemoTest"/>
+    </classes>
+  </test> <!-- Test -->
 </suite> <!-- Suite -->
